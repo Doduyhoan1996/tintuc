@@ -1,0 +1,67 @@
+
+#navbar-brand1>img{
+	width: 130px;
+
+}
+#navbar-default{
+	padding: 0px;
+	background-color: #FFFFFF;
+	border: none;
+	margin-bottom: 0px;
+}
+.navbar-header{
+	margin-right: 50px;
+	padding-top: 0px;
+}
+#navbar-brand1{
+	padding: 10px 15px;
+	height: 100px;
+}
+.navbar-left{
+	line-height: 70px;
+}
+#navbar-right li a{
+	line-height: 60px;
+	margin-left: 20px;
+}
+
+.menu1 ul{
+	position: absolute;
+	z-index: 999;
+	display: none;
+	overflow: hidden;
+}
+#headd{
+	height: 60px;
+}
+#title{
+	line-height: 40px;
+	font-size: 20px;
+	color: #FFFFFF;
+}
+.row-item{
+	padding-left:15px;
+	margin-top: 5px;
+}
+#endpage{
+	height: 40px;
+    background-color: grey;
+    margin: auto;
+    margin-top: 5px;
+    text-align: center;
+    line-height: 40px;
+}
+.cmttt{
+	background-color: whitesmoke;
+	padding: 20px;
+}
+#left{
+	padding-left: 15px;
+	border: 2px solid grey;
+}
+#right{
+	margin-top: 20px;
+}
+.advertisement{
+	padding-left: 30px;
+}
